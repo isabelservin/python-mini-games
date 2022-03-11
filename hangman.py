@@ -76,7 +76,6 @@ def displayOptions(options):
             print(f"{choiceIndex}. {option}")
             choiceIndex+=1
 
-
 #main menu
 def mainMenu():
     #menu options
@@ -232,7 +231,6 @@ def displayHangman(currLives):
             """ #life phase 7      
     ]
     return lifePhases[currLives]
-
 
 if __name__ == '__main__':
     mainMenu()
