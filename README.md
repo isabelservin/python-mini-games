@@ -23,7 +23,7 @@ Can be run in VSCODE IF:
 Just click on the run icon on the far right of VSC in hangman.py file
 
 ## Built With
-* [Python](https://www.python.org/) - The coding language used
+* [Python](https://www.python.org/)
 
 ## Authors
 * Isabel Servin 
