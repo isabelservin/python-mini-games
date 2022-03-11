@@ -79,12 +79,14 @@ def displayOptions(options):
 #main menu
 def mainMenu():
     #menu options
+    #PLAY_GO_FISH = "Play Go Fish"
     PLAY_HANGMAN = "Play Hangman"
     EXIT = "Exit"
 
     #list of our options
     options = []
     options.append(PLAY_HANGMAN)
+    #options.append(PLAY_GO_FISH)
     options.append(EXIT)
 
     #get players name
