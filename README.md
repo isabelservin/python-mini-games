@@ -1,6 +1,6 @@
 # python-mini-games
 
-Mini game of Hangman that starts the user off with 7 lives and prompts user to guess a 
+Python CLI mini game of Hangman that starts the user off with 7 lives and prompts user to guess a 
 letter until the word has been guessed or their lives have reached 0; which ever comes first.
 
 ## Getting Started
