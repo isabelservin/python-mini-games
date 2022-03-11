@@ -21,7 +21,7 @@ def displayCurrentWord(guessed, word):
 
 #start the game
 def playHangman(player):
-    lives = 6 #user will have 7 lives to before hanged man
+    lives = 6 #user will have 6 lives to before hanged man
     randWord = getRandWord(words)  # tracks selected random word
     randLetters = set(randWord)  # tracks set of letters in our random word
     validChars = set(string.ascii_uppercase)  # list of valid uppercase characters'
