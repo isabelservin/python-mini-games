@@ -6,10 +6,10 @@ letter until the word has been guessed or their lives have reached 0; which ever
 ## Getting Started
 You only need to have python installed (python 3) to run this mini game
 
-MacOS/Linux
+#### MacOS/Linux:
 python3 hangman.py
 
-Windows 
+#### Windows:
 py -3 hangman.py
 
 ### Prerequisites
