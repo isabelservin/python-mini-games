@@ -37,7 +37,7 @@ def playHangman(player):
         displayCurrentWord(guessedLetters, randWord)
 
         #prompt userInput
-        userInput = input("\nGuess a letter>> ").upper()
+        userInput = input("Guess a letter>> ").upper()
 
         #if userInput is a valid character that hasnt been guessed yet
         if userInput in validChars - guessedLetters:
